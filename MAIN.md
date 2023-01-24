@@ -1,6 +1,6 @@
 layout: page
 title: "Ambre Assor"
-permalink: [/URL-PATH/](https://ambreassor.github.io/test)
+permalink: [/URL-PATH/](/test/)
 
 <!DOCTYPE html>
 <html>
