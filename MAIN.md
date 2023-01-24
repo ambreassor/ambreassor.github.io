@@ -4,11 +4,15 @@ permalink: [/URL-PATH/](https://ambreassor.github.io/)
 
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Ambret</title>
-  </head>
-  <body>
-    
-  </body>
+<head>
+<title>Ambre Assor</title>
+</head>
+<body>
+
+<h1>Ambre Assor</h1>
+<p>Phd Student at Inria.</p>
+
+</body>
 </html>
+
+
