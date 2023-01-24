@@ -1,6 +1,6 @@
 layout: page
 title: "Ambre Assor"
-permalink: [/URL-PATH/]
+permalink: /about/
 
 <!DOCTYPE html>
 <html>
