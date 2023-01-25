@@ -31,19 +31,6 @@ theme: minima
 plugins:
   - jekyll-feed
   
-<!DOCTYPE html>
-<html>
-<head>
-<title> </title>
-</head>
-<body>
-
-<h1>3rd year Phd student on Immersive situated visualizations.</h1>
-<p></p>
-
-</body>
-</html> 
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
