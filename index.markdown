@@ -15,11 +15,9 @@ Supervisor: [Arnaud Prouzeau](https://www.aprouzeau.com/).
 ## Education
 - Bachelor in Photonics at [Institut d'Optique Graduate School](https://www.institutoptique.fr/en) (Palaiseau, France). 
 - Master in Photonics at Institut d'Optique Graduate School (Bordeaux, France) specialized in Virtual reality and real-virtual interfaces, image synthesis and 3D imaging, rendering and computer graphics. Innovation and Entrepreneurship pathway.
-- Master in Image and Sound Processing at [Université de Bordeaux](https://sciences-ingenieur.u-bordeaux.fr/Nos-formations/Master-Ingenierie-des-Systemes-Complexes-ISC/Parcours-Ingenierie-des-Systemes-pour-l-Image-et-le-Signal-ISIS)  
-
+- Master in Image and Sound Processing at [Université de Bordeaux](https://sciences-ingenieur.u-bordeaux.fr/Nos-formations/Master-Ingenierie-des-Systemes-Complexes-ISC/Parcours-Ingenierie-des-Systemes-pour-l-Image-et-le-Signal-ISIS)
 ## Research Projects
-[Augmented Reality Waste Accumulation Visualizations](https://hal.science/hal-03907474/)  
-
+[Augmented Reality Waste Accumulation Visualizations](https://hal.science/hal-03907474/)
 ## Activities
 ### Scientific mediation events 
 - June 2022 : [VIVATECH 2022](https://vivatechnology.com/)
