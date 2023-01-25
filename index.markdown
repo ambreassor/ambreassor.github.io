@@ -7,10 +7,10 @@ layout: home
 ![Portrait](/images/1581087526026.jpg)
 
 # Phd student in Immersive Situated Visualizations. 
-At [Potioc](https://team.inria.fr/potioc/), an [Inria BSO](https://www.inria.fr/en/inria-centre-university-bordeaux) project team.
-Director: [Martin Hachet](https://people.bordeaux.inria.fr/hachet/). 
-Co- Director: [Pierre Dragicevic](http://dragice.fr/).
-Supervisor: [Arnaud Prouzeau](https://www.aprouzeau.com/).
+At [Potioc](https://team.inria.fr/potioc/), an [Inria BSO](https://www.inria.fr/en/inria-centre-university-bordeaux) project team.  
+Director: [Martin Hachet](https://people.bordeaux.inria.fr/hachet/).   
+Co- Director: [Pierre Dragicevic](http://dragice.fr/).  
+Supervisor: [Arnaud Prouzeau](https://www.aprouzeau.com/).  
 ## Education
 - Bachelor in Photonics at [Institut d'Optique Graduate School](https://www.institutoptique.fr/en) (Palaiseau, France). 
 - Master in Photonics at Institut d'Optique Graduate School (Bordeaux, France) specialized in Virtual reality and real-virtual interfaces, image synthesis and 3D imaging, rendering and computer graphics. Innovation and Entrepreneurship pathway.
