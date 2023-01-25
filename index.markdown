@@ -4,6 +4,6 @@
 
 layout: home
 ---
-![Portrait](/images/1581087526026.jpg)  
+![Portrait](/images/1581087526026.jpg){width=10}  
 
 Phd student in Immersive Situated Visualizations. 
