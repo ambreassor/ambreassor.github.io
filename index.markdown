@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Phd student in Immersive Situated Visualizations. 
