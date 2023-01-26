@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ambre Assor
+title: [Ambre Assor](https://www.researchgate.net/profile/Ambre-Assor)
 email: ambre.assor@inria.fr
 description: Phd Student at Inria.
 baseurl: "" # the subpath of your site, e.g. /blog
