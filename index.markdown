@@ -11,13 +11,13 @@ At [Potioc](https://team.inria.fr/potioc/), an [Inria BSO](https://www.inria.fr/
 Director: [Martin Hachet](https://people.bordeaux.inria.fr/hachet/).   
 Co- Director: [Pierre Dragicevic](http://dragice.fr/).  
 Supervisor: [Arnaud Prouzeau](https://www.aprouzeau.com/).  
-# 
+ 
 ## Education
 - Bachelor in Photonics at [Institut d'Optique Graduate School](https://www.institutoptique.fr/en) (Palaiseau, France). 
 - Master in Photonics at Institut d'Optique Graduate School (Bordeaux, France) specialized in Virtual reality and real-virtual interfaces, image synthesis and 3D imaging, rendering and computer graphics. Innovation and Entrepreneurship pathway.
 - Master in Image and Sound Processing at [Université de Bordeaux](https://sciences-ingenieur.u-bordeaux.fr/Nos-formations/Master-Ingenierie-des-Systemes-Complexes-ISC/Parcours-Ingenierie-des-Systemes-pour-l-Image-et-le-Signal-ISIS)
 
-# 
+ 
 ## Research Projects
 [Augmented Reality Waste Accumulation Visualizations](https://hal.science/hal-03907474/)
 
