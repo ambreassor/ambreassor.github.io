@@ -6,7 +6,7 @@ layout: home
 ---
 ![Portrait](/images/1581087526026.jpg)
 
-# Phd student in Immersive Situated Visualizations. 
+# [Phd student in Immersive Situated Visualizations](https://www.theses.fr/s345154).
 At [Potioc](https://team.inria.fr/potioc/), an [Inria BSO](https://www.inria.fr/en/inria-centre-university-bordeaux) project team.  
 Director: [Martin Hachet](https://people.bordeaux.inria.fr/hachet/).   
 Co- Director: [Pierre Dragicevic](http://dragice.fr/).  
@@ -19,6 +19,7 @@ Supervisor: [Arnaud Prouzeau](https://www.aprouzeau.com/).
 
  
 ## Research Projects
+My research was funded in part by the [Ember Project](https://ember.inria.fr/) (ANR grant ANR-19-CE33-0012).
 [Augmented Reality Waste Accumulation Visualizations](https://hal.science/hal-03907474/)
 
 
