@@ -29,7 +29,7 @@ My research was funded in part by the [Ember Project](https://ember.inria.fr/) (
 ## Activities
 ### Scientific mediation events 
 - June 2022 : [VIVATECH 2022](https://vivatechnology.com/)
-- April 2022 : MIMM Project (stands for I Computer scientist, I matematician in french in a femal gendered grammatical form). A week of coding activities with girls between 13 and 15 yo.
+- April 2022 : MIMM Project (stands for I Computer scientist, I mathematician in french in a female gendered grammatical form). A week of coding activities with girls between 13 and 15 yo.
 - September 2022: Summer School on Science Communication in [VIU](https://www.univiu.org/) (Venice International's University).
 - September 2022: COP27 Project. Presented visualization in AR applied to eco-feedback to High School Students (Libourne, France).
 - October 2022: Village des Sciences ([CAP Sciences](https://www.cap-sciences.net/en/homepage/)). Mediation booth about AR.
