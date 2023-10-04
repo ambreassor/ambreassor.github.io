@@ -12,7 +12,8 @@ At [Potioc](https://team.inria.fr/potioc/), an [Inria BSO](https://www.inria.fr/
 Director: [Martin Hachet](https://people.bordeaux.inria.fr/hachet/).   
 Co- Director: [Pierre Dragicevic](http://dragice.fr/).  
 Supervisor: [Arnaud Prouzeau](https://www.aprouzeau.com/). 
-[CV](https://github.com/ambreassor/ambreassor.github.io/blob/70c6e1ddfef12036e83171fb75cd66a0cba2a5a2/Ambre%20Assor.pdf)
+
+[CV](<a href="ambreassor.github.io/Ambre Assor.pdf" target="_blank">PDF.</a>)
 
 
  
