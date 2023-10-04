@@ -6,7 +6,7 @@ layout: home
 ---
 ![Portrait](/images/1581087526026.jpg)  
 [ResearchGate](https://www.researchgate.net/profile/Ambre-Assor)  
-(<a href="ambreassor.github.io/Ambre Assor.pdf" target="_blank">CV.</a>)  
+<a href="ambreassor.github.io/Ambre Assor.pdf" target="_blank">CV</a>  
 
 # [Phd student in Immersive Situated Visualizations](https://www.theses.fr/s345154).
 At [Potioc](https://team.inria.fr/potioc/), an [Inria BSO](https://www.inria.fr/en/inria-centre-university-bordeaux) project team.  
