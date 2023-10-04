@@ -28,8 +28,10 @@ My research was funded in part by the [Ember Project](https://ember.inria.fr/) (
 - Under pee-review, available as a preprint: [Augmented Reality Waste Accumulation Visualizations](https://hal.science/hal-03907474/)
 
 ## Activities
+
 ### Reasearch internship
-- June to September 2023 (Montréal, Canada): I worked with [Michael McGuffin](https://www.michaelmcguffin.com/) for three month a on a projet on immersive visualizations (currently under peer-review).  
+- June to September 2023 (Montréal, Canada): I worked with [Michael McGuffin](https://www.michaelmcguffin.com/) for three month a on a projet on immersive visualizations (currently under peer-review).
+  
 ### Scientific mediation events 
 - June 2022 : [VIVATECH 2022](https://vivatechnology.com/)
 - April 2022 : MIMM Project (stands for I Computer scientist, I mathematician in french in a female gendered grammatical form). A week of coding activities with girls between 13 and 15 yo.
