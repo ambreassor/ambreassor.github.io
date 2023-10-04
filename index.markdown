@@ -12,6 +12,7 @@ At [Potioc](https://team.inria.fr/potioc/), an [Inria BSO](https://www.inria.fr/
 Director: [Martin Hachet](https://people.bordeaux.inria.fr/hachet/).   
 Co- Director: [Pierre Dragicevic](http://dragice.fr/).  
 Supervisor: [Arnaud Prouzeau](https://www.aprouzeau.com/). 
+[CV](https://github.com/ambreassor/ambreassor.github.io/blob/70c6e1ddfef12036e83171fb75cd66a0cba2a5a2/Ambre%20Assor.pdf)
 
 
  
@@ -42,4 +43,6 @@ My research was funded in part by the [Ember Project](https://ember.inria.fr/) (
 
 ### Teaching assistance 
 - Master 1: C++ introduction, Computing Methods with Matlab. Referent professor : Xavier Granier.
-- Master 1: 3D rendering. Referent professor : Roman Pacanowski. 
+- Master 1: 3D rendering. Referent professor : Roman Pacanowski.
+
+
