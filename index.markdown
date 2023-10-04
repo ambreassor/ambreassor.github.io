@@ -22,11 +22,14 @@ Supervisor: [Arnaud Prouzeau](https://www.aprouzeau.com/).
 
  
 ## Research Projects
-My research was funded in part by the [Ember Project](https://ember.inria.fr/) (ANR grant ANR-19-CE33-0012).
-[Augmented Reality Waste Accumulation Visualizations](https://hal.science/hal-03907474/)
-
+My research was funded in part by the [Ember Project]([https://ember.inria.fr/]) (ANR grant ANR-19-CE33-0012).
+- VIS'23 long paper: [Handling non-visible Referents for Situated Visualizations]([https://hal.science/hal-03907474/])
+- CHI'23 Interactivity: [Exploring Augmented Reality Waste Data Representations for Eco Feedback]([https://dl.acm.org/doi/abs/10.1145/3544549.3583905])
+- Under pee-review, available as a preprint: [Augmented Reality Waste Accumulation Visualizations]([https://hal.science/hal-03907474/])
 
 ## Activities
+### Reasearch internship
+- June to September 2023 (Montréal, Canada): I worked with [Michael McGuffin](https://www.michaelmcguffin.com/) for three month a on a projet on immersive visualizations (currently under peer-review).  
 ### Scientific mediation events 
 - June 2022 : [VIVATECH 2022](https://vivatechnology.com/)
 - April 2022 : MIMM Project (stands for I Computer scientist, I mathematician in french in a female gendered grammatical form). A week of coding activities with girls between 13 and 15 yo.
