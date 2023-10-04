@@ -29,7 +29,7 @@ My research was funded in part by the [Ember Project](https://ember.inria.fr/) (
 
 ## Activities
 
-### Reasearch internship
+### Research internship
 - June to September 2023 (Montréal, Canada): I worked with [Michael McGuffin](https://www.michaelmcguffin.com/) for three month a on a projet on immersive visualizations (currently under peer-review).
   
 ### Scientific mediation events 
