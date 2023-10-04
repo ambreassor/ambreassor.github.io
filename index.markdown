@@ -6,14 +6,13 @@ layout: home
 ---
 ![Portrait](/images/1581087526026.jpg)  
 [ResearchGate](https://www.researchgate.net/profile/Ambre-Assor)  
+[CV](<a href="ambreassor.github.io/Ambre Assor.pdf" target="_blank">PDF.</a>)  
 
 # [Phd student in Immersive Situated Visualizations](https://www.theses.fr/s345154).
 At [Potioc](https://team.inria.fr/potioc/), an [Inria BSO](https://www.inria.fr/en/inria-centre-university-bordeaux) project team.  
 Director: [Martin Hachet](https://people.bordeaux.inria.fr/hachet/).   
 Co- Director: [Pierre Dragicevic](http://dragice.fr/).  
 Supervisor: [Arnaud Prouzeau](https://www.aprouzeau.com/). 
-
-[CV](<a href="ambreassor.github.io/Ambre Assor.pdf" target="_blank">PDF.</a>)
 
 
  
