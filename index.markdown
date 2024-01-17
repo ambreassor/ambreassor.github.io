@@ -8,7 +8,7 @@ layout: home
 [ResearchGate](https://www.researchgate.net/profile/Ambre-Assor)  
 <a href="ambreassor.github.io/Ambre Assor.pdf" target="_blank">CV</a>  
 
-# [Phd student in Immersive Situated Visualizations](https://www.theses.fr/s345154).
+# [Phd in Immersive Situated Visualizations](https://www.theses.fr/s345154).
 At [Potioc](https://team.inria.fr/potioc/), an [Inria BSO](https://www.inria.fr/en/inria-centre-university-bordeaux) project team.  
 Director: [Martin Hachet](https://people.bordeaux.inria.fr/hachet/).   
 Co- Director: [Pierre Dragicevic](http://dragice.fr/).  
@@ -26,7 +26,7 @@ Supervisor: [Arnaud Prouzeau](https://www.aprouzeau.com/).
 My research was funded in part by the [Ember Project](https://ember.inria.fr/) (ANR grant ANR-19-CE33-0012).
 - VIS'23 long paper: [Handling non-visible Referents for Situated Visualizations](https://hal.science/hal-03907474/)
 - CHI'23 Interactivity: [Exploring Augmented Reality Waste Data Representations for Eco Feedback](https://dl.acm.org/doi/abs/10.1145/3544549.3583905)
-- Under pee-review, available as a preprint: [Augmented Reality Waste Accumulation Visualizations](https://hal.science/hal-03907474/)
+- JCSS long paper: [Augmented Reality Waste Accumulation Visualizations](https://dl.acm.org/doi/10.1145/3636970)
 
 ## Activities
 
