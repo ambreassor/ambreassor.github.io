@@ -11,7 +11,7 @@ layout: home
 # [Phd in Immersive Situated Visualizations](https://www.theses.fr/s345154).
 At [Potioc](https://team.inria.fr/potioc/), an [Inria BSO](https://www.inria.fr/en/inria-centre-university-bordeaux) project team.  
 Director: [Martin Hachet](https://people.bordeaux.inria.fr/hachet/).   
-Co- Director: [Pierre Dragicevic](http://dragice.fr/).  
+Co-Director: [Pierre Dragicevic](http://dragice.fr/).  
 Supervisor: [Arnaud Prouzeau](https://www.aprouzeau.com/). 
 
 
@@ -31,11 +31,11 @@ My research was funded in part by the [Ember Project](https://ember.inria.fr/) (
 ## Activities
 
 ### Research internship
-- June to September 2023 (Montréal, Canada): I worked with [Michael McGuffin](https://www.michaelmcguffin.com/) for three month a on a projet on immersive visualizations (currently under peer-review).
+- June to September 2023 (Montréal, Canada): I worked with Michael McGuffin for three months to design, implement, and conduct a controlled experiment on immersive visualizations using a Meta Quest Pro headset (a full paper on this work is currently under peer-review).
   
 ### Scientific mediation events 
-- June 2022 : [VIVATECH 2022](https://vivatechnology.com/)
-- April 2022 : MIMM Project (stands for I Computer scientist, I mathematician in french in a female gendered grammatical form). A week of coding activities with girls between 13 and 15 yo.
+- June 2022: [VIVATECH 2022](https://vivatechnology.com/)
+- April 2022: MIMM Project (stands for I Computer scientist, I mathematician in French in a female-gendered grammatical form). A week of coding activities with girls between 13 and 15 yo.
 - September 2022: Summer School on Science Communication in [VIU](https://www.univiu.org/) (Venice International's University).
 - September 2022: COP27 Project. Presented visualization in AR applied to eco-feedback to High School Students (Libourne, France).
 - October 2022: Village des Sciences ([CAP Sciences](https://www.cap-sciences.net/en/homepage/)). Mediation booth about AR.
