@@ -9,7 +9,7 @@ layout: home
 <a href="ambreassor.github.io/Ambre Assor.pdf" target="_blank">CV</a>  
 
 # Postdoc in Visualization at [Aviz](https://www.aviz.fr/Main/HomePage)
-[URGE project](https://www.inria.fr/en/ap-hp-inria-projet-urge-optimisation-parcours-soins), supervised by [Jean-Daniel Fekete](https://www.aviz.fr/~fekete/).
+[URGE project](https://www.inria.fr/en/ap-hp-inria-projet-urge-optimisation-parcours-soins), with [Jean-Daniel Fekete](https://www.aviz.fr/~fekete/).
 
 ## Education
 - Bachelor in Photonics at [Institut d'Optique Graduate School](https://www.institutoptique.fr/en) (Palaiseau, France). 
