@@ -8,7 +8,7 @@ layout: home
 [ResearchGate](https://www.researchgate.net/profile/Ambre-Assor)  
 <a href="ambreassor.github.io/Ambre Assor.pdf" target="_blank">CV</a>  
 
-# [Postdoc in Visualization] at [Aviz](https://www.aviz.fr/Main/HomePage)
+# Postdoc in Visualization at [Aviz](https://www.aviz.fr/Main/HomePage)
 [URGE project](https://www.inria.fr/en/ap-hp-inria-projet-urge-optimisation-parcours-soins), supervised by [Jean-Daniel Fekete](https://www.aviz.fr/~fekete/).
 
 ## Education
@@ -16,9 +16,9 @@ layout: home
 - Master in Photonics at Institut d'Optique Graduate School (Bordeaux, France) specialized in Virtual reality and real-virtual interfaces, image synthesis and 3D imaging, rendering and computer graphics. Innovation and Entrepreneurship pathway.
 - Master in Image and Sound Processing at [Université de Bordeaux](https://sciences-ingenieur.u-bordeaux.fr/Nos-formations/Master-Ingenierie-des-Systemes-Complexes-ISC/Parcours-Ingenierie-des-Systemes-pour-l-Image-et-le-Signal-ISIS)
 - Phd in [Immersive Situated Visualizations](https://www.theses.fr/s345154) at [Potioc](https://team.inria.fr/potioc/), an [Inria BSO](https://www.inria.fr/en/inria-centre-university-bordeaux) project team.  
-Director: [Martin Hachet](https://people.bordeaux.inria.fr/hachet/).   
-Co-Director: [Pierre Dragicevic](http://dragice.fr/).  
-Supervisor: [Arnaud Prouzeau](https://www.aprouzeau.com/). 
+  Director: [Martin Hachet](https://people.bordeaux.inria.fr/hachet/).   
+  Co-Director: [Pierre Dragicevic](http://dragice.fr/).  
+  Supervisor: [Arnaud Prouzeau](https://www.aprouzeau.com/). 
  
 ## Research Projects
 My research was funded in part by the [Ember Project](https://ember.inria.fr/) (ANR grant ANR-19-CE33-0012).
