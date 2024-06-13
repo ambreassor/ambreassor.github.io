@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![Portrait](/images/portrait_bw.jpeg)  
+<img src="/images/portrait_bw.jpeg" width="100" height="100">
 [ResearchGate](https://www.researchgate.net/profile/Ambre-Assor)  
 <a href="ambreassor.github.io/Ambre Assor.pdf" target="_blank">CV</a>  
 
