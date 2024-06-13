@@ -5,6 +5,7 @@
 layout: home
 ---
 <img src="/images/portrait_bw.jpeg" width="380" height="400">
+
 [ResearchGate](https://www.researchgate.net/profile/Ambre-Assor)  
 <a href="ambreassor.github.io/Ambre Assor.pdf" target="_blank">CV</a>  
 
