@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<img src="/images/IMG_4391.jpeg" width="160" height="400">
+<img src="/images/IMG_4391.jpeg" width="220" height="400">
 
 [ResearchGate](https://www.researchgate.net/profile/Ambre-Assor)  
 <a href="ambreassor.github.io/Ambre Assor.pdf" target="_blank">CV</a>  
