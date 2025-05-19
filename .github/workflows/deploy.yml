@@ -1,29 +1,31 @@
-name: Deploy preview to GitHub Pages
+name: Build and Deploy Preview
 
 on:
   push:
-    branches:
-      - preview
+    branches: [preview]
 
 jobs:
-  deploy:
+  build-deploy:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
 
-      - name: Install dependencies
+      - name: Install ImageMagick and Jupyter
         run: |
-          gem install bundler
-          bundle install
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+          python3 -m pip install --upgrade pip
+          pip install notebook
 
-      - name: Build site
-        run: bundle exec jekyll build
+      - run: gem install bundler
+      - run: bundle install
+
+      - run: bundle exec jekyll build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
