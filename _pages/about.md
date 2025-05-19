@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>[email](ambre.assor@inria.fr)</p>
+    <p>ambre.assor@inria.fr</p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
