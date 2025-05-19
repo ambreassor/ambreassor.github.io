@@ -1,12 +1,11 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: teaching assistance
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+- Master 1: C++ introduction, Computing Methods with Matlab. Referent professor : Xavier Granier. (2021-2022)
+- Master 1: 3D rendering. Referent professor : Roman Pacanowski. (2022)
