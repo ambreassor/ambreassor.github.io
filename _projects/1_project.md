@@ -2,7 +2,7 @@
 layout: page
 title: ARWAVs
 description: Augmented Reality Visualization of Waste Accumulation
-img: assets/arwav_preview.jpg
+img: assets/img/arwav_preview.jpg
 importance: 1
 category: work
 related_publications: true
