@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.aviz.fr/">Aviz</a>, Inria, Université Paris-Saclay, LISN, CNRS
+subtitle: PostDoctoral Researcher in Visualization\n<a href="https://www.aviz.fr/">Aviz</a>, Inria, Université Paris-Saclay, LISN, CNRS
 
 profile:
   align: right
@@ -19,7 +19,7 @@ announcements:
 
 ---
 
-## About Me
+Hi ! My name is Ambre (Ahn-br).
 
 I hold a Master's degree in Photonics and a PhD in *Immersive Situated Visualizations* from the [Potioc](https://team.inria.fr/potioc/) project team at [Inria Centre at the University of Bordeaux](https://www.inria.fr/en/inria-centre-university-bordeaux). My PhD was under the direction of [Martin Hachet](https://people.bordeaux.inria.fr/hachet/), co-direction of [Pierre Dragicevic](http://dragice.fr/) and supervised by [Arnaud Prouzeau](https://www.aprouzeau.com/).
 
