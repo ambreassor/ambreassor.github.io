@@ -2,96 +2,108 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Ambre Assor
     - name: Date of Birth
-      value: 14th March 1879
+      value: 28/11/1996
     - name: Languages
-      value: English, German
+      value: French (native), English (C2), Spanish (fluent)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computer Science – Immersive Situated Visualizations
+      institution: Inria Bordeaux, University of Bordeaux, France
+      year: 2020 – 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Immersive Situated Visualizations.
+        - title: Supervision
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Director: Martin Hachet
+            - Co-director: Pierre Dragicevic
+            - Supervisor: Arnaud Prouzeau
+    - title: MSc Image and Sound Processing for Engineering Systems
+      institution: University of Bordeaux, France
+      year: 2019 – 2020
+    - title: Engineering Degree (3 years)
+      institution: Institut d’Optique Graduate School (France)
+      year: 2017 – 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Specializations in Computer Science, Photonics, VR/AR, and Image Processing.
+        - Innovation and Entrepreneurship Pathway.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Researcher
+      institution: Inria Saclay, Aviz Team
+      year: April 2024 – Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Visualization of patient flow in emergency departments.
+        - Collaboration with Assurance Maladie on prostate cancer care pathway visualization.
+    - title: Teaching Assistant
+      institution: Institut d'Optique Graduate School
+      year: 2020 – Present
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Courses on C++, OpenGL, and Matlab.
+    - title: Software Development Intern
+      institution: Immervision, Montreal
+      year: Feb 2020 – Aug 2020
       description:
+        - Built tools for measuring distortion correction using computer vision.
+    - title: Software Development Intern
+      institution: Ansys Optis
+      year: May 2019 – Aug 2019
+      description:
+        - Developed a BSDF plugin for SPEOS simulation software.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Scientific Mediation & Other Activities 
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Student Volunteer Chair 
+      year: March 2025
+      description:
+        - TEI Conference in Bordeaux [TEI Conference](https://tei.acm.org/2025/)
+    - title: VIVATECH 2022
+      year: June 2022
+      description:
+        - AR demo booth showcasing PhD work.
+    - title: MIMM Project
+      year: April 2022
+      description:
+        - Coding workshops with girls aged 13–15.
+    - title: Summer School on Science Communication – VIU
+      year: September 2022
+    - title: COP27 Project – AR Eco-Feedback
+      year: September 2022
+      description:
+        - Presentation to high school students in Libourne, France.
+    - title: Village des Sciences – CAP Sciences
+      year: October 2022
+      description:
+        - AR mediation booth for the general public.
+    - title: French Tech Day
+      year: November 2022
+      description:
+        - 15-minute public talk on augmented reality.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Data Visualization
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Health data
+        - Situated and immersive visualizations
+    - title: Human-Computer Interaction (HCI)
       items:
-        - Description 1.
-        - Description 2.
+        - Augmented reality
+        - Spatial interaction
+    - title: Scientific Mediation
+      items:
+        - Public communication
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Traveling, swimming, taekwondo, piano
+    - Community involvement: Mentoring, humanitarian activities, student council

@@ -1,34 +1,19 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"martin":
+  - firstname: ["Martin Hachet"]
+    url: https://people.bordeaux.inria.fr/hachet/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"pierre":
+  - firstname: ["Pierre Dragicevic"]
+    url: http://dragice.fr/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"arnaud":
+  - firstname: ["Arnaud Prouzeau"]
+    url: https://www.aprouzeau.com/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"michael":
+  - firstname: ["Michael McGuffin"]
+    url: https://profs.etsmtl.ca/mmcguffin/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"jean-daniel":
+  - firstname: ["Jean-Daniel Fekete", "Jean Daniel Fekete", "J.-D. Fekete"]
+    url: https://www.aviz.fr/~fekete/
