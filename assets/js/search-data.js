@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -85,13 +85,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/Ambre Assor", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
