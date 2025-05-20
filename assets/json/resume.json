@@ -4,9 +4,8 @@
     "label": "Postdoctoral Researcher in Data Visualization",
     "image": "/images/1581087526026.jpg",
     "email": "ambre.assor@inria.fr",
-    "phone": "+33675826034",
     "url": "https://ambreassor.github.io/",
-    "summary": "Postdoctoral researcher at Inria Saclay (Aviz) working on immersive and health data visualizations, with a PhD in Immersive Situated Visualizations.",
+    "summary": "Postdoctoral researcher at Inria Saclay (Aviz) working on health data visualizations, with a PhD in Immersive Situated Visualizations.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -54,7 +53,7 @@
       ]
     }
   ],
-  "volunteer": [
+  "Outreach & Engagement": [
     {
       "organization": "TEI Conference",
       "location": "Bordeaux, France",
@@ -63,6 +62,54 @@
       "startDate": "2025-03-01",
       "endDate": "",
       "summary": "Chair of student volunteers for the TEI 2025 Conference."
+    },
+    {
+      "organization": "MIMM Project",
+      "position": "Facilitator",
+      "startDate": "2022-04-01",
+      "endDate": "",
+      "summary": "Led coding workshops with girls aged 13–15 to promote gender diversity in tech.",
+      "location": "France"
+    },
+    {
+      "organization": "VIVATECH 2022",
+      "position": "Participant & Speaker",
+      "startDate": "2022-06-01",
+      "endDate": "",
+      "summary": "Presented AR demo booth showcasing PhD work at Europe's largest tech event.",
+      "location": "France"
+    },
+    {
+      "organization": "Summer School on Science Communication – VIU",
+      "position": "Participant",
+      "startDate": "2022-09-01",
+      "endDate": "",
+      "summary": "Participated in training sessions on communicating science to the public.",
+      "location": "France"
+    },
+    {
+      "organization": "COP27 Project – AR Eco-Feedback",
+      "position": "Facilitator",
+      "startDate": "2022-09-15",
+      "endDate": "",
+      "summary": "Presented AR visualizations on eco-feedback to high school students in Libourne, France.",
+      "location": "France"
+    },
+    {
+      "organization": "Village des Sciences – CAP Sciences",
+      "position": "Speaker",
+      "startDate": "2022-10-01",
+      "endDate": "",
+      "summary": "Ran an AR booth as part of a public science festival.",
+      "location": "France"
+    },
+    {
+      "organization": "French Tech Day",
+      "position": "Participant & Speaker",
+      "startDate": "2022-11-01",
+      "endDate": "",
+      "summary": "Delivered a 15-minute talk on Augmented Reality.",
+      "location": "France"
     }
   ],
   "education": [
@@ -124,35 +171,11 @@
     },
     {
       "language": "English",
-      "fluency": "C2"
+      "fluency": "Fluent"
     },
     {
       "language": "Spanish",
-      "fluency": "Fluent"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Scientific Mediation",
-      "keywords": [
-        "Public communication",
-        "Augmented Reality"
-      ]
-    },
-    {
-      "name": "Human-Computer Interaction",
-      "keywords": [
-        "Augmented Reality",
-        "Spatial Interaction"
-      ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "URGE Project",
-      "summary": "Visualization of patients’ flow simulation in emergency departments.",
-      "startDate": "2024-04-01",
-      "url": "https://www.inria.fr/en/ap-hp-inria-projet-urge-optimisation-parcours-soins"
+      "fluency": "Scholar"
     }
   ]
 }
