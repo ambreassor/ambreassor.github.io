@@ -64,7 +64,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-arwavs",
+            },},{id: "news-we-presented-arwavs-at-chi-2023-as-a-demo",
+          title: 'We presented ARWAVs at CHI 2023 as a demo.',
+          description: "",
+          section: "News",},{id: "news-our-paper-an-interdisciplinary-approach-to-designing-and-evaluating-data-driven-interactive-experiences-for-sustainable-decision-making-was-presented-at-the-workshop-on-hci-for-climate-change-at-chi-2023",
+          title: 'Our paper An Interdisciplinary Approach to Designing and Evaluating Data-Driven Interactive Experiences for...',
+          description: "",
+          section: "News",},{id: "news-we-presented-our-paper-handling-non-visible-referents-in-situated-visualizations-at-vis-2023",
+          title: 'We presented our paper Handling Non-Visible Referents in Situated Visualizations at VIS 2023....',
+          description: "",
+          section: "News",},{id: "projects-arwavs",
           title: 'ARWAVs',
           description: "Augmented Reality Visualization of Waste Accumulation",
           section: "Projects",handler: () => {
