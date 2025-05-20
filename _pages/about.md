@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PostDoctoral Researcher in Visualization\n<a href="https://www.aviz.fr/">Aviz</a>, Inria, Université Paris-Saclay, LISN, CNRS
+subtitle: PostDoctoral Researcher in Visualization at <a href="https://www.aviz.fr/">Aviz</a>, Inria, Université Paris-Saclay, LISN, CNRS
 
 profile:
   align: right
