@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>[Aviz](https://www.aviz.fr/), Inria, Université Paris-Saclay, LISN, CNRS</a>. 
+subtitle: <a href="https://www.aviz.fr/">Aviz</a>, Inria, Université Paris-Saclay, LISN, CNRS
 
 profile:
   align: right
@@ -35,7 +35,7 @@ I aim to continue exploring how visualizations can meaningfully contribute to he
 
 ## Scientific Mediation & Other Activities 
 
-- **June 2022:** [TEI 2025](https://tei.acm.org/2025/) - Student Volunteer Chair.
+- **March 2025:** [TEI 2025](https://tei.acm.org/2025/) - Student Volunteer Chair.
 - **June 2022:** [VIVATECH 2022](https://vivatechnology.com/)
 - **April 2022:** *MIMM Project* – A week of coding and tech workshops with girls aged 13–15, promoting inclusivity in STEM.
 - **September 2022:** Summer School on Science Communication at [Venice International University](https://www.univiu.org/)
